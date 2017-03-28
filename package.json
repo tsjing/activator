@@ -1,5 +1,5 @@
 {
-  "name": "activator",
+  "name": "@tsjing/activator",
   "description": "simple user activation and password reset for nodejs",
   "version": "3.0.1",
   "url": "http://github.com/deitch/activator",
